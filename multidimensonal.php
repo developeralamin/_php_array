@@ -48,9 +48,9 @@ echo '<pre>';
   			]
   ];
 
-  echo $animals[3][3][1];
+  echo $aniMals[3][3][1];
   echo '<br>';
-  echo $animals[0][0];
+  echo $aniMals[0][0];
   echo '<br>';
   echo '<br>';
 
