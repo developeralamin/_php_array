@@ -36,7 +36,7 @@ echo '<pre>';
  
  
  
-  $animals = [
+  $aniMals = [
   				[
                   'Ant','Monkey','Cow',
   				],'Chicken','Butterfly',

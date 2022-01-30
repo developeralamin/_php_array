@@ -29,8 +29,8 @@
  echo 'TopProgramming for Software Development = ' .$topProgramming[2];
  echo "</br>";
 
- $BestTextEditor = array('VS Code','Sublime Text','Notepadd++','phpstorm');
- echo 'Best Text Editor is = ' .$BestTextEditor[1];
+ $bestTextEditor = array('VS Code','Sublime Text','Notepadd++','phpstorm');
+ echo 'Best Text Editor is = ' .$bestTextEditor[1];
  echo "</br>";
 
 
