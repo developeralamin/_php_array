@@ -11,7 +11,7 @@
 echo '<pre>';
 
 
-  $BirdsName = [
+  $birdsName = [
     				[
                 'Crow','Hayna','Doyel',
     				], 
@@ -26,17 +26,17 @@ echo '<pre>';
   			]
   ];
 
-  echo $BirdsName[3][3][0];
+  echo $birdsName[3][3][0];
   echo '<br>';
-  echo $BirdsName[0][0];
+  echo $birdsName[0][0];
   echo '<br>';
-  echo $BirdsName[1][0];
+  echo $birdsName[1][0];
   echo '<br>';
   echo '<br>';
  
  
  
-  $Animals = [
+  $animals = [
   				[
                   'Ant','Monkey','Cow',
   				],'Chicken','Butterfly',
@@ -48,14 +48,14 @@ echo '<pre>';
   			]
   ];
 
-  echo $Animals[3][3][1];
+  echo $animals[3][3][1];
   echo '<br>';
-  echo $Animals[0][0];
+  echo $animals[0][0];
   echo '<br>';
   echo '<br>';
 
 
-  $FoodItems = [
+  $foodItems = [
   				[
                   'Pasta','French Fries','Ice Cream',
   				],'Bread','Vegetables',
@@ -67,15 +67,15 @@ echo '<pre>';
   			]
   ];
 
-  echo $FoodItems[3][3][0];
+  echo $foodItems[3][3][0];
   echo '<br>';
-  echo $FoodItems[0][0];
+  echo $foodItems[0][0];
   echo '<br>';
   echo '<br>';
 
 
 
-  $TopSoftwareCompanies = [
+  $topsoftwareCompanies = [
   				[
                   'Enosis Solutions','weDevs','Piistech Ltd ',
   				],'Miquido ','Avenga',
@@ -87,9 +87,9 @@ echo '<pre>';
   			]
   ];
 
-  echo $TopSoftwareCompanies[3][3][1];
+  echo $topsoftwareCompanies[3][3][1];
   echo '<br>';
-  echo $TopSoftwareCompanies[0][0];
+  echo $topsoftwareCompanies[0][0];
   echo '<br>';
   echo '<br>';
   // =================================================================//

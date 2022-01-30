@@ -9,24 +9,24 @@
   
   echo '<pre>';
   
- $ProgrammerList = array('computer specialist','Engineer','Guru','Hacker');
- echo 'ProgrammerList is = '. $ProgrammerList[0];
+ $programmerList = array('computer specialist','Engineer','Guru','Hacker');
+ echo 'ProgrammerList is = '. $programmerList[0];
  echo "</br>";
 
- $WhiteBirdName  = array('Diablo ','Harvey Beaks','Dab','Ace','Owl');
- echo 'WhiteBirdName is = ' .$WhiteBirdName[4];
+ $whitebirdName  = array('Diablo ','Harvey Beaks','Dab','Ace','Owl');
+ echo 'WhiteBirdName is = ' .$whitebirdName[4];
  echo "</br>";
 
- $BestBusName = array('VOLVO ','Hanif','Shamoli','GreenLine','Desh Travel');
- echo 'Best Bus Name is = ' .$BestBusName[2];
+ $bestbusName = array('VOLVO ','Hanif','Shamoli','GreenLine','Desh Travel');
+ echo 'Best Bus Name is = ' .$bestbusName[2];
  echo "</br>";
 
- $BestTrainName = array('Banalata Express','Panchagarh Express','Ekota Express');
- echo 'Best Train Name is = ' . $BestTrainName[1];
+ $besttrainName = array('Banalata Express','Panchagarh Express','Ekota Express');
+ echo 'Best Train Name is = ' . $besttrainName[1];
  echo "</br>";
 
- $TopProgramming = array('Python','JavaSript','PHP','Go','Scala');
- echo 'TopProgramming for Software Development = ' .$TopProgramming[2];
+ $topProgramming = array('Python','JavaSript','PHP','Go','Scala');
+ echo 'TopProgramming for Software Development = ' .$topProgramming[2];
  echo "</br>";
 
  $BestTextEditor = array('VS Code','Sublime Text','Notepadd++','phpstorm');
